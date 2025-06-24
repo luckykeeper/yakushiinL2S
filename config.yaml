@@ -1,0 +1,6 @@
+# DebugMode 调试模式
+DebugMode: false
+# LogLevel 日志等级 => Debug:5 | Info:4 | Warn: 3 | Error:2 | Fatal:1
+LogLevel: 4
+# ApiPort 服务监听端口： 默认： 44443
+ApiPort: 44443
