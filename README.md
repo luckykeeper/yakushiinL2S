@@ -12,7 +12,7 @@
 
 1. 从 Github Release 下载最新版本
 2. 启动项目，Windows 用户双击下载的 exe 文件运行，linux 用户无需指导
-3. 浏览器打开网页，默认地址是 【http://localhost:44443】 或 【http://[电脑ip]:44443】，B/S 架构，也可以搭建在线服务
+3. 浏览器打开网页，默认地址是 【[http://localhost:44443](http://localhost:44443)】 或 【http://[电脑ip]:44443】，B/S 架构，也可以搭建在线服务
 4. 在网页完成转换，步骤：
 
 1、上传 LRC 文件或粘贴 LRC 文件的内容（双语）
